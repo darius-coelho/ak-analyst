@@ -1,0 +1,82 @@
+.navbar {
+    min-height: 35px;
+    max-height: 35px;
+    margin-top: -2px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    background-color: rgb(80, 79, 143);
+}
+
+.navbarTitle {
+    position: absolute;
+    width: 100%;       
+    height: 100%; 
+    -webkit-app-region: drag;
+}
+
+div.dropdown-menu.show {
+    margin-top: -4px;
+    box-shadow: 0px 1px 2px 1px #9a9a9a;
+    border-radius: 0px 0px 5px 5px;
+}
+
+#basic-nav-dropdown1 {
+    color: rgb(255, 255, 255);
+}
+
+#basic-nav-dropdown2{
+    color: rgb(255, 255, 255);
+}
+
+.navItem {
+    -webkit-app-region: none;
+}
+
+.navClose {
+    color: #ffffff;
+    font-size: 17px;
+    z-index: 2;
+    -webkit-app-region: none;
+}
+
+.navExit {
+    color: #ffffff;
+    font-size: 1rem;
+    margin-left: -15px;
+    border-right: 1px solid #a9a9a9;
+    z-index: 2;
+    height: 34px;
+    -webkit-app-region: none;
+}
+
+.navExitMac {
+    color: #ffffff;
+    font-size: 1rem;
+    margin-left: 50px;    
+    z-index: 2;
+    -webkit-app-region: none;
+}
+
+.navMacHome {
+    color: #ffffff;
+    font-size: 1.8rem;
+    margin-top: 10px;
+    margin-left: 50px;    
+    z-index: 2;
+    -webkit-app-region: none;
+}
+
+.navBack {    
+    margin-right: 5px;
+    font-size: 1rem;
+    z-index: 2;
+    vertical-align: middle;
+}
+
+.navBackText {    
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 1rem;
+    z-index: 2;
+    line-height: 32px;
+}

@@ -1,0 +1,93 @@
+.causalAttributeOuter{
+  width: fit-content;
+  height: fit-content;  
+}
+
+.causalAttributeInner{
+  display: block;
+  background: #86c7ff;
+  padding: 4px 10px;
+  width: 160px;
+  margin: 0px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.deactivated{  
+  background: #d3d3d3;  
+  cursor: context-menu;
+  margin-bottom: 5px;
+}
+
+
+.causalNode {
+  cursor: grab;
+}
+
+.causalNodeDiv {
+  width: 80px;
+  height: 30px;
+  padding: 2px 5px 0px 5px;
+  background-color: #86c7ff;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;  
+  border-radius: 4px;
+  user-select: none;   
+}
+
+.inCycle {
+  background-color: #ff8276;
+}
+
+.inFocus {
+  width: 76px;
+  height: 26px;
+}
+
+.latent {
+  background-color: lightgray;
+}
+
+.causalNodeOuterDiv {
+  width: 80px;
+  height: 30px;  
+  background-color: #ffffff;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;  
+  border-radius: 4px;
+  user-select: none;   
+}
+
+.inFocusOuter {
+  border: 2px dashed #000000;
+}
+
+
+.causalNode:active .causalNodeDiv{  
+  background-color: #45c465;
+}
+
+.causalNode:active{  
+  cursor: grabbing;
+}
+
+.causalNodeHotSpot {
+  width: 8px;
+  height: 8px;  
+  fill: #505050;
+  stroke: #ffffff;
+  display: none;
+  cursor: initial;
+}
+
+.causalNode:hover .causalNodeHotSpot{
+  display: initial;
+}
+
+.causalNodeHotSpot:active{
+  display: initial;
+}

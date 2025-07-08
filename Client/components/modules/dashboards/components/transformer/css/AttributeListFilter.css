@@ -1,0 +1,47 @@
+.attrFilterBox {
+  display: inline-block;
+	width: fit-content;
+  margin: 10px 20px;  
+  vertical-align: top;
+  text-align: left;
+  min-width: 125px;
+}
+
+.attrFilterTitle {
+	display: block;
+  font-weight: bold;
+}
+
+.attrFilterCheck {
+	display: inline-block;
+  vertical-align: top;
+  margin: 5px 5px 0px 0px;
+}
+
+.attrFilterCheckLabel {	
+  display: inline-block;
+  max-width: 175px;  
+}
+
+.attrFilterSlider {
+  display: inline-block;
+  margin: 0px 14px;
+  width: calc(100% - 110px);
+}
+
+.attrFilterSpinBox {
+  text-align: center;
+  display: inline;
+  width: 38px;
+  font-size: 12px;
+  vertical-align: top;
+  margin: 2px 0px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+
+.attrFilterSpinBox::-webkit-outer-spin-button,
+.attrFilterSpinBox::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

@@ -1,0 +1,56 @@
+.headerText {
+  color:rgb(247, 247, 247);  
+  position: absolute;
+  font-size: 2.2em;
+  font-variant: small-caps;
+  margin-left: 4%;
+  bottom: calc(100% - 100px);
+}
+
+.logoImage {  
+  height: 1.2em;  
+  margin: 5px
+}
+
+.loaderDiv {
+  top: 100px;
+  left: 4%;
+  width: 92%;
+  height: calc(100% - 150px);
+  overflow: hidden;
+}
+
+.panelDiv {
+  position: absolute;
+  height: 100%;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.filenameList{
+  overflow: auto;
+  margin: 1em;
+  max-height: calc(75% - 120px);
+}
+
+.fileUploadBox{
+  margin: 20px;
+  height: 12em;
+  bottom: 0px;
+  position: absolute;
+  width: calc(100% - 40px);
+  max-height: 25%;
+}
+
+.pipelineImage {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  border: 1px solid #c0c0c0;
+}
+
+.sampleHolder {
+  display: inline-block; 
+  width: 25%;
+  margin: 1em 4% 0em 4%;  
+}

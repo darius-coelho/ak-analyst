@@ -1,0 +1,122 @@
+.patternSummaryStatDiv{
+  display: inline-block;
+  color: black;
+  font-size: 16px;
+  border-radius: 3px;
+  border: 1px solid #868686;
+  margin: 5px 5px 5px 5px;
+  padding: 5px;
+  z-index: 5;
+}
+
+.patternSummaryStatLabel{
+  display: block;
+  color: black;
+  font-size: 16px;
+}
+
+.patternSummaryStatValue{
+  margin-top: 5px;
+  display: block;
+  color: black;
+  font-size: 16px;
+  text-align: center
+}
+
+.patternSummaryStatDiff{
+  display: block;
+  color: black;
+  font-size: 12px;
+  text-align: center
+}
+
+.legendBox {
+  position: absolute; 
+  top: 0px;
+  right: 0px;
+  border-left: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  border-bottom-left-radius: 9px;
+}
+
+.legendToggleDisplay{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 100%;
+  background: #e3e3e3;
+  cursor: pointer;
+}
+
+.legendText {
+  font-weight: bold;
+  text-align: center;
+  font-size: 0.8em;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.zoomBox {
+  position: absolute;
+  width: 7.2em;
+  height: 100px;
+  top: 0px;
+  right: 0px;
+  padding-right: 7px;
+  text-align: center;
+  border-left: 1px solid #e5e5e5;
+}
+
+.zoomBoxSmall {
+  position: absolute;
+  width: 20em;
+  height: 2.5em;
+  top: 0px;
+  right: 0px;
+  text-align: left;
+  border-left: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  border-bottom-left-radius: 9px;
+}
+
+.zoomInnerBox {
+  display: inline-block;
+  width: 8em;
+  height: 1em;
+  font-size: 0.7em;
+  margin: 7px;
+}
+
+.zoomButton {
+  display: inline-block;
+  background-color: #e1e1e1;
+  border: none;
+  color: #515151;
+  padding: 0px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+
+.patternHelp {
+  position: absolute;  
+  top: 100px;
+  right: 0px;
+  padding-right: 7px;
+}
+
+.patternHelpSmall {
+  position: absolute;  
+  top: 2.5em;
+  right: 0px;
+  padding-right: 7px;
+}

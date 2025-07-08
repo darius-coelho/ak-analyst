@@ -1,0 +1,51 @@
+.patternTagsBox {
+  display: block;  
+  width: 100%;
+  white-space: break-spaces;
+}
+
+.patternDetailTagsBox {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.patternDetailTagsBox::-webkit-scrollbar  {
+  width: 5px;
+  height: 5px;
+}
+
+.patternTagSmall {
+  display: inline-block;
+  font-size: 11px;
+  padding: 2px 5px 3px 5px;
+  border-radius: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0px 3px;
+  max-width: 100%;
+}
+
+.patternTagLarge {
+  display: inline-block;
+  font-size: 11pt;
+  padding: 2px 6px 4px 6px;
+  border-radius: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0px 4px;
+  max-width: 250px;
+}
+
+.addTagBtn {
+  display: inline-block;
+  font-size: 11pt;
+  padding: 2px 8px 4px 8px;
+  border-radius: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0px 4px;
+  background: #dfdfdf;
+  cursor: pointer;
+}

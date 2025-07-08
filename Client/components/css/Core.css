@@ -1,0 +1,219 @@
+.contentdiv {
+    position: fixed;
+    height: 100%;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 2px 0px #9a9a9a;
+}
+  
+.contentDivHead {
+    width: fit-content;
+    display: block;
+    padding: 0.2em 2em 0em 0.3em;
+    background: none;
+    color: #000000;
+    font-variant-caps: small-caps;
+    font-size: 110%;
+    letter-spacing: 1px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-image: linear-gradient(
+                        to right,
+                        #a3a3a3,
+                        rgba(0, 0, 0, 0)
+                    ) 1;
+    max-width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.contentDivSubHead {
+    display: block;
+    padding: 0px 10px;
+    background: none;
+    color: #000000;
+    font-variant-caps: all-petite-caps;
+    font-size: 125%;
+    max-width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+  
+.contentInnerdiv {
+    position: absolute;
+    z-index: 1;
+    background-color: #ffffff;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.placeholderText{
+    font-size: 95%;
+    font-style: italic;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.coreButton {
+    display: inline-block;
+    background-color: #4c7faf;
+    border: none;
+    color: white;
+    width: fit-content;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none; 
+    margin: 5px;
+    border-radius: 2px;
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.coreButton:disabled,
+.coreButton[disabled]{
+    display: inline-block;
+    background-color: #4c7faf;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none; 
+    margin: 5px;
+    border-radius: 2px;
+    cursor: default;
+    opacity: 0.5;
+}
+
+.coreButton:hover:enabled {
+    background-color: #2f506e;
+} 
+
+.coreButtonSmall {
+    display: inline-block;
+    background-color: #4c7faf;
+    border: none;
+    color: white;
+    padding: 3px 10px;
+    text-align: center;
+    text-decoration: none; 
+    font-size: 75%;
+    margin: 5px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.coreButtonSmall:disabled {
+    opacity: 0.5;
+}
+
+.coreButtonSmall:hover:enabled {
+    background-color: #2f506e;
+} 
+  
+.coreButtonTab {
+    display: inline-block;  
+    background-color: #727275;
+    border: none;    
+    border-right: 1px solid #ffffff;    
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;    
+    margin: 0;
+    cursor: pointer;
+    
+}
+  
+.coreButtonTab:hover {
+    background-color: #383838;
+}
+
+.coreTextInput {
+    display: inline-block;  
+    line-height: 23px;  
+    width: 80px;
+    margin: 10px;
+    vertical-align: middle;
+    padding: 0px 2px 0px 6px;
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: 1px solid rgb(211, 211, 211);
+    color: #000000;
+    font-size: 90%;
+    overflow: hidden;
+}
+
+
+.customFileUpload{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 90%;
+}
+
+.customFileUploadButton {
+    display: inline-block;  
+    width: 95px;
+    background-color: #e6ecf2;
+    border-right: 1px solid #cccccc;
+    padding: 4px 8px;
+    margin: 0;
+    cursor: pointer;    
+}
+  
+.customFileUploadButton:hover {
+    background-color: #bdbdbd;
+}
+
+.customFileUploadText {
+    display: inline-block;      
+    padding: 4px 8px;    
+    cursor: pointer;    
+}
+
+.lineDivide{
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.optionLabel {
+    font-size: 95%;
+}
+
+.optionLabel input {
+    cursor: pointer;
+}
+
+.helpIcon {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 1.4em;
+    color: rgb(136, 127, 161);
+    shape-rendering: crispEdges;
+}
+
+.helpIconText {
+    font-size: 1.4em;
+    line-height: 1.5em;
+}
+
+.ag-theme-blue .ag-header {
+  font-weight: bold;    
+}
+
+.ag-theme-blue .ag-header-cell {
+    background: #cbc0e0;    
+    color: #000;
+}
+
+.ag-theme-blue {
+    /* use theme parameters where possible */
+    --ag-odd-row-background-color: #f3f3f3;
+    --ag-row-hover-color: #ddd7e9;    
+}

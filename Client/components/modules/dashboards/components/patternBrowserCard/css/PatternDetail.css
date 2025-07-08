@@ -1,0 +1,99 @@
+.detailStatBox {
+  display: block;
+  text-align: center;
+  margin: 30px 5px 40px 5px;
+  width: calc(100% - 10px);
+}
+
+.detailMetaBox {
+  display: block;  
+  margin: 5px 10px 0px 10px;
+  width: calc(100% - 10px);  
+}
+
+.detailLikeIcon {
+  font-size: 20pt;
+  color: goldenrod;
+  margin: 2px 5px 0px 0px;
+  vertical-align: middle;
+}
+
+.detailLbl {
+  display: inline-block;  
+  font-weight: bold;
+  margin: 0px 0px 0px 5px;
+  font-size: 11pt;
+  vertical-align: middle;
+}
+
+.detailInput {
+  display: inline-block;  
+  font-size: 11pt;
+  width: 250px;
+  vertical-align: middle;
+}
+
+.detailDropdown {
+  display: inline-block;  
+  font-size: 11pt;
+  width: 150px;
+  vertical-align: middle;
+}
+
+.detailTagHolder {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.detailAttrToggle{
+  margin: 10px 15px;
+  font-size: 10pt;
+  font-weight: 500;
+}
+
+.detailListBox {
+  display: inline-block;
+  vertical-align: top;
+  background: #ffffff;
+  margin: 10px;
+  white-space: nowrap;
+}
+
+.detailBackgroundBox {
+  position: absolute;
+  display: inline-block;
+  background: #f0f0f0;
+  margin: 0px;
+}
+
+.detailListHead {
+  position: absolute;
+  display: inline-block;
+  padding: 5px 10px;
+  margin-bottom: 9px;
+  color: rgb(58, 58, 58);
+  font-weight: bold;
+  font-size: 12pt;
+}
+
+.detailCard {
+  display: inline-block;
+  border-radius: 5px;
+  width: 350px;
+  height: 190px;
+  background-color: white;
+  user-select: none;
+  padding: 10px;  
+  margin: 5px;
+  box-shadow: 0px 0px 1px 1px #9a9a9a;
+  cursor: pointer;
+  vertical-align: top;
+}
+
+.detailCardHolder {
+  position: absolute;
+  margin: 30px 5px 5px 5px;
+  padding: 5px 0px 10px 0px;
+  overflow-x: auto;
+  overflow-y: hidden;  
+}

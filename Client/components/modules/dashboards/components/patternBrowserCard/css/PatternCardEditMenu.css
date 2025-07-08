@@ -1,0 +1,55 @@
+.pattern-card-modal {
+  /* Hidden by default */
+  display: block;
+  position: fixed; /* Stay in place */
+  z-index: 2; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0); /* Black w/ opacity */
+}
+
+.patternCardEditorBackdrop {
+  /* Hidden by default */
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+}
+
+.pattern-card-hole {
+  /* Hidden by default */
+  position: absolute;
+  border-radius: 5px;  
+  box-shadow: 0 0 0 99999px rgba(0, 0, 0, .6);
+}
+
+.pattern-card-menu {
+  /* Hidden by default */
+  position: absolute;
+}
+
+.pattern-card-menu-option {
+  display: block;
+  background-color: #4c7faf;
+  color: white;
+  opacity: 0.95;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px 0px 6px 8px;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  border-radius: 5px;
+}
+
+.pattern-card-menu-option-panel {
+  position: absolute;
+  display: block;  
+}

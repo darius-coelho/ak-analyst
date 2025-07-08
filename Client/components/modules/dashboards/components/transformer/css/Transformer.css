@@ -1,0 +1,207 @@
+.listItem {
+	background-color:none;
+  }
+  
+  .listInnerItem {
+	display: inline-block;
+	width: calc(100% - 10px);
+	margin: 5px;
+	border: solid 1px #dcdcdc;
+	border-radius: 4px;
+	cursor: pointer;
+  }
+
+  .listItem:hover .listInnerItem {
+	width: calc(100% - 50px);
+  }
+  
+  .listItem .hiddenIcon {
+	display: none;
+	margin-top: 9px;
+	margin-right: 4px;
+	color: #515151;
+	font-size: 31px;
+	float: right;
+	cursor: pointer;
+  }  
+  
+  .listItem:hover .hiddenIcon {
+	display: inline-block;
+  }
+  
+  .listLabel {
+	display: inline-block; 
+	margin: 7px 10px;
+	vertical-align: middle;
+	min-width: 1em;
+	max-width: calc(100% - 200px);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	cursor: pointer;
+  }
+  
+  .listContentRight {
+	margin: 6px;
+	padding: 2px 5px;
+	font-size: 90%;
+	background: #86c7ff;
+	border-radius: 5px;
+	max-width: 65px;
+	float: right;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+  }
+  
+  .listIcon {
+	margin-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	cursor: pointer;
+	color: #6199ca;
+	cursor: pointer;
+  }
+ 
+.listSearchInput {
+	width: calc(100% - 10px);
+	margin: 0px 5px;
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+}
+
+.listFilterOptionToggle {
+	margin: 4px 10px;
+	font-size: 10pt;
+}
+
+.listFilterOptionToggle .form-check-input{
+	cursor: pointer;
+}
+
+.attrDetailLabel {
+	display: inline-block;
+	margin: 10px;
+	margin-top: 10px;	
+	width: 2.5em;
+	vertical-align: top;
+}
+
+.attrDetailBox {
+	display: inline-block;	
+	margin-top: 10px;
+	padding-bottom: 5px;
+	width: calc(100% - 160px);
+	overflow-x: auto;
+	overflow-y: hidden; 
+	vertical-align: top;
+	white-space: nowrap;
+}
+
+.attributeTypeOption {
+	display: inline-block;
+	height: 1.7em;
+	line-height: 1.6em;
+	padding: 0em 0.5em;	
+	vertical-align: middle;
+	background: #e8e8e8;
+	color: #000000;
+	font-size: 90%;
+	cursor: pointer;
+	overflow: hidden;
+	text-align: center;
+	margin-right: 0.3em;
+	border-radius: 5px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis; 
+}
+
+.ordinalItem {
+	display: inline-block;
+	height: 25px;
+	line-height: 23px;
+	width: 77px;
+  	padding: 0px 5px;
+	vertical-align: middle;
+	background: #ffffff;	
+  	border: #adadad 1px solid;
+	font-size: 11pt;
+	cursor: col-resize;	
+	text-align: center;
+	margin-right: 4px;
+	border-radius: 5px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis; 
+}
+
+.sampleCategoryItem {
+	display: inline-block;
+	height: 25px;	
+	width: 100px;  		
+	background: #ffffff;	  	
+	font-size: 11pt;
+	margin-right: 4px;	
+	margin-bottom: 5px;
+}
+
+.transformerSummaryStatBox {
+	display: block;
+	margin-top: 25px;
+	padding-bottom: 5px;
+	width: calc(100% - 5px);
+	margin-top: 15px;
+	margin-left: 5px;
+	overflow-x: auto;
+	overflow-y: hidden;
+	white-space: nowrap;
+	text-align: center;
+	border-top: 1px solid #b3b3b3;
+}
+
+.transformerSummaryStatCell {
+	display: inline-block;
+	margin: 0.4em 0.5em 0em 0.75em;
+    height: 3em;
+    border: none;
+	padding: 0em 0.2em;    
+	color: black;
+	font-size: 100%;	
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	z-index: 5;
+}
+
+.transformerSummaryStatLabel {
+	display: block;	
+	text-align: center;
+	font-weight: bold;
+}
+  
+.transformerSummaryStatValue {
+	margin-top: 5px;
+	display: block;	
+	text-align: center
+}
+
+.statFootNote {
+	font-size: 85%;
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+ }
+
+ .transformControlBox {
+	border-bottom: 1px solid #b3b3b3;
+	text-align: center; 
+	padding-bottom: 20px
+ }
+
+ .transformButtonBox {	
+	text-align: center;
+	overflow-x: auto;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
+

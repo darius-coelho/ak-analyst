@@ -1,0 +1,42 @@
+.peekLabel {
+  display: inline-block;
+  margin: 15px 10px;
+  font-weight: bold;
+}
+
+.peekFilterLabel {
+  margin-left: calc(100% - 110px);
+  margin-top: -22px;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 1px solid #6d6d6d;
+  text-align: center;
+  width: 85px
+}
+
+.peekValue {
+  display: inline-block;
+  margin: 15px 0px;
+}
+
+.peekNameLbl {
+  display: inline-block;
+  font-weight: 600;
+  margin: 10px 5px;
+  vertical-align: middle;
+}
+
+.peekNameVal {
+  display: inline-block;
+  margin: 10px 5px;
+  width: 350px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+.peekCoreLbl {
+  display: block;
+  margin: 5px 2px;
+  font-size: 13pt;
+}

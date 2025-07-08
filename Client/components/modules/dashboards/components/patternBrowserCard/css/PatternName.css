@@ -1,0 +1,33 @@
+.patternNameBox {
+  display: inline-block;
+  cursor: pointer;
+  width: calc(100% - 25px);
+  margin: 0px;
+}
+
+.patternTitle {
+  display: inline-block;
+  font-size: 14pt;
+  font-weight: bold;
+  max-width: calc(100% - 55px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.patternNameEditIcon {
+  visibility: hidden;
+  margin-left: 5px;
+  font-size: 14pt;
+  cursor: pointer;
+}
+
+.patternNameBox:hover .patternNameEditIcon {
+  visibility: visible;
+}
+
+.patternLikeIcon {
+  font-size: 14pt;
+  color: goldenrod;
+  margin: 2px 5px 0px 0px;
+  vertical-align: top;
+}

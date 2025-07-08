@@ -1,0 +1,113 @@
+Copyright (c) 2022 Akai Kaeru LLC
+
+
+End User License Agreement
+
+
+Please read the terms and conditions of this End User License Agreement (this "agreement") carefully before agreeing to install the software. By downloading or using the software, you agree to be bound by this agreement. If you do not agree, do not download the software; you must delete any copy in your possession or control.
+
+
+License
+
+1.  Under this End User License Agreement (the "Agreement"), Akai Kaeru LLC (the "Licensor") grants to the user (the "Licensee" or "You") a personal, nonexclusive, nonsublicensable, nontransferable, nonassignable, revocable license (the "License") to use AK Analyst (the "Software"). 
+
+2.  "Software" includes the executable computer programs and any related printed, electronic and online documentation and any other files that may accompany the product.
+
+3.  The Software may be loaded onto no more than one computer. A single copy may be made for backup purposes only.
+
+4.  Title, copyright, intellectual property rights and distribution rights of the Software remain exclusively with the Licensor. Intellectual property rights include the look and feel of the Software. This Agreement constitutes a license for use only and is not in any way a transfer of ownership rights to the Software.
+
+5.  The rights and obligations of this Agreement are personal rights granted to the Licensee only. The Licensee may not transfer or assign any of the rights or obligations granted under this Agreement to any other person or legal entity. The Licensee may not make available the Software for use by one or more third parties.
+
+6.  You may not decompile, decipher, disassemble, reverse engineer or otherwise attempt to access source code of the Software, or circumvent any technical limitations in the Software that limit or restrict access to or use of the Software or any content, file, or other work, except as expressly permitted by applicable law notwithstanding this limitation.
+
+7.  You may not distribute, publish, rent, lease, lend, transfer, sublicense, disclose or otherwise provide the Software to any third party.
+
+8.  You may not modify or create derivative works of the Software, in whole or in part.
+
+9.  You  may  not  remove  any  proprietary  notices  or  labels  on  the Software or any copy thereof.
+
+10.  Without limiting any of the foregoing, you may not make any use of the Software in any manner not expressly permitted by this Agreement.
+
+11.  Failure to comply with any of the terms under the License section will be considered a material breach of this Agreement.
+
+
+License Fee
+
+12.  The original purchase price paid by the Licensee will constitute the entire license fee and is the full consideration for this Agreement.
+Reservation of Rights and Ownership
+
+13.  Licensor owns all right, title and interest, including all intellectual property rights, in and to the Software and reserves all rights not expressly granted to you in this Agreement.  The Software is protected by copyright and other intellectual property laws and treaties. All trademarks, logos, and service marks (collectively, "Marks") displayed on the Software are the property of Licensor or of their respective holders. You are not permitted to use any of the Marks without the applicable prior written consent of Licensor or such respective holders.
+
+14.  You may choose to, or Licensor may invite you to, submit comments, suggestions, or ideas about the Software, including how to improve the Software ("Feedback"). By submitting any Feedback, you agree that your submissions are voluntary, gratuitous, and without restriction and will not place Licensor or its suppliers under any fiduciary or other obligation. You irrevocably assign to Licensor all right, title and interest throughout the world in the Feedback without the right to any compensation or royalties from Licensor or its suppliers and, to the extent allowed by applicable law, you waive all moral rights you may have in the Feedback. Licensor may use, copy, modify, publish, or redistribute the submission and its contents, including any Feedback, for any purpose. You also agree that Licensor does not waive any rights to use similar or related ideas previously known to Licensor, developed by its employees, or obtained from other sources.
+
+15.  You acknowledge that it is possible for Licensor and its suppliers, in the course of performing under this Agreement, to collect or process data (other than personally identifiable information) that is submitted, stored or generated during the registration for or use of the Software, including but not limited to aggregated or anonymized data ("Usage Data"). Licensor and its suppliers may use or disclose Usage Data for any of their business purposes, including but not limited to the purposes of billing, providing, repairing, improving, or analyzing the Software.
+
+
+Updates
+
+16.  This Agreement applies to updates to the Software as well as any services accessed through the Software (if any) that Licensor may, in its sole discretion, provide or make available to you ("Update"). If Licensor provides additional terms along with an Update, those terms will apply to the Update. If Licensor provides you an Update, Licensor may, at its sole discretion, require you to use the Updated version and cease use of earlier versions. Licensor reserves the right to update or discontinue any product or service made available to you through use of the Software.
+
+
+Limitation of Liability
+
+17.  The Software is provided by the Licensor and accepted by the Licensee "as is". Liability of the Licensor will be limited to a maximum of the original purchase price of the Software. The Licensor will not be liable for any general, special, incidental or consequential damages including, but not limited to, loss of production, damages to any computer, device, or system, loss of profits, loss of revenue, loss of data, or any other business or economic disadvantage suffered by the Licensee arising out of the use or failure to use the Software.
+
+18.  Licensor makes no warranty expressed or implied regarding the fitness of the Software for a particular purpose or that the Software will be suitable or appropriate for the specific requirements of the Licensee.
+
+19.  Licensor does not warrant that use of the Software will be uninterrupted or error-free. Licensee accepts that software in general is prone to bugs and flaws within an acceptable level as determined in the industry.
+
+20.  Licensor does not represent that the software may not be hacked, compromised and/or circumvented. Licensor does not warrant that the software will work properly in all environments and applications. The ability of the software to work properly depends on a number of products and services made available by third parties over which licensor has no control including, but not limited to, internet, cellular and landline connectivity; mobile device and related operating system compatibility; or proper installation and maintenance of authorized hardware and other software.
+
+
+Indemnification
+
+21.  You agree to defend, indemnify and hold harmless Licensor and its parent, affiliates, and suppliers and their respective officers, directors and employees from all claims and expenses (including attorneys’ fees and costs) that arise out of or in connection with your use of the Software, any breach of this Agreement, or your violation of any laws or regulations or the rights of any third party.
+
+
+Warrants and Representations
+
+22.  The Licensor warrants and represents that it is the copyright holder of the Software. The Licensor warrants and represents that granting the license to use this Software is not in violation of any other agreement, copyright or applicable statute.
+
+
+Acceptance
+
+23.  All terms, conditions and obligations of this Agreement will be deemed to be accepted by the Licensee ("Acceptance") on registration of the Software with the Licensor.
+
+
+Term
+
+24.  The term of this Agreement will begin on Acceptance and will continue for a period of one year. At the end of the term of this Agreement the Licensee must destroy all copies of the Software in their possession unless the term of this Agreement is renewed for another year. 
+
+
+Termination
+
+25.  This Agreement will be terminated and the License forfeited where the Licensee has failed to comply with any of the terms of this Agreement or is in breach of this Agreement. On termination of this Agreement for any reason, the Licensee will promptly destroy the Software or return the Software to the Licensor.
+
+
+Force Majeure
+
+26.  The Licensor will be free of liability to the Licensee where the Licensor is prevented from executing its obligations under this Agreement in whole or in part due to Force Majeure, such as earthquake, typhoon, flood, fire, and war or any other unforeseen and uncontrollable event where the Licensor has taken any and all appropriate action to mitigate such an event.
+
+
+Governing Law
+
+27.  The Parties to this Agreement submit to the jurisdiction of the courts of the State of New York for the enforcement of this Agreement or any arbitration award or decision arising from this Agreement. This Agreement will be enforced or construed according to the laws of the State of New York.
+
+
+Miscellaneous
+
+28.  This Agreement can only be modified in writing signed by both the Licensor and the Licensee.
+
+29.  Headings are inserted for the convenience of the parties only and are not to be considered when interpreting this Agreement.
+
+30.  Words in the singular mean and include the plural and vice versa. Words in the masculine gender include the feminine gender and vice versa. Words in the neuter gender include the masculine gender and the feminine gender and vice versa.
+
+31.  If any term, covenant, condition or provision of this Agreement is held by a court of competent jurisdiction to be invalid, void or unenforceable, it is the parties' intent that such provision be reduced in scope by the court only to the extent deemed necessary by that court to render the provision reasonable and enforceable and the remainder of the provisions of this Agreement will in no way be affected, impaired or invalidated as a result.
+
+32.  This Agreement contains the entire agreement between the parties. All understandings have been included in this Agreement. Representations which may have been made by any party to this Agreement may in some way be inconsistent with this final written Agreement. All such statements are declared to be of no value in this Agreement. Only the written terms of this Agreement will bind the parties.
+
+
+Notices
+
+33.  All notices to the Licensor under this Agreement are to be provided at the following address: Akai Kaeru LLC, 1500 Stony Brook Rd., Stony Brook, NY 11790

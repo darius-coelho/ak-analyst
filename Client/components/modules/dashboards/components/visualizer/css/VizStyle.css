@@ -1,0 +1,6 @@
+.vizErrorMessage {
+  display: block;
+  margin: 20px;
+  font-style: italic;
+  color: rgb(154, 69, 69);
+}

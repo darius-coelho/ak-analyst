@@ -1,0 +1,61 @@
+.viewIconBox {
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 60px);
+  height: 100px;
+  width: 26px;
+}
+  
+.viewIconHolder {
+  display: block;
+  height: 30px;
+  width: 18px;
+  margin: 15px 0px;
+  background: #888888;
+  cursor: pointer;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  opacity: 0.6;
+}
+
+.viewIcon {
+  font-size: 30px;
+  color: whitesmoke;
+  margin: 0px 0px 0px -8px;
+  position: absolute;
+  transform: scale(1,1);
+}
+
+.detailIconBtn {
+  font-size: 25px;
+  color: #494949;
+  background-color: #ebebeb;
+  margin: 0px 10px;
+  border-radius: 4px;
+  padding: 3px;
+  cursor: pointer;
+}
+
+.detailIconBtn:hover {
+  background-color: #b6b6b6;
+}
+
+.detailIconBtnRemove {
+  font-size: 25px;
+  color: #494949;
+  background-color: #ebebeb;
+  margin: 0px 10px;
+  border-radius: 4px;
+  padding: 3px;
+  cursor: pointer;
+}
+
+.detailIconBtnRemove:after {
+  position: absolute;
+  margin-left: -9px;
+  content: "\d7";
+  font-size: 14px; 
+  color: #494949;
+  line-height: 4px;
+  text-align: center;
+}

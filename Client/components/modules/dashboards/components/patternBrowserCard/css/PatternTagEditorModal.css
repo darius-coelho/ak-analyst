@@ -1,0 +1,20 @@
+.patternTagEditorModal {
+  /* Hidden by default */
+  display: flex;
+  position: fixed; /* Stay in place */
+  z-index: 2; /* Sit on top */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.5); /* Black w/ opacity */
+}
+
+.patternTagEditorModalBackDrop {
+  /* Hidden by default */
+  display: block;
+  position: fixed; /* Stay in place */  
+}
+
+.patternTagEditorModalContent {  
+  display: block;
+  z-index: 3;
+  margin: auto;
+}

@@ -1,0 +1,111 @@
+.aggregatorContent {
+  margin: 20px;
+  height: calc(100% - 170px);
+}
+
+.aggregatorMapBox {
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  overflow-y: auto;  
+  height: calc(100% - 330px);
+}
+
+.aggKeySelect {  
+  margin-bottom: 30px;  
+}
+
+.aggMapItem {
+  text-align: left;
+  width: 100%;
+}
+
+.aggFuncSelect {
+  display: inline-block;
+  width: 250px;
+  text-align: left;
+  vertical-align: top;
+  margin: 10px 5px;
+}
+
+.aggAttrSelect {
+  display: inline-block;
+  width: calc(100% - 280px);  
+  margin: 10px 10px;
+  max-height: 110px;
+  vertical-align: top;
+}
+
+.aggRemove {
+  display: none;
+  color: #939393;
+  margin: 5px;
+  font-size: 25pt;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.aggMapItem:hover .aggAttrSelect {
+  width: calc(100% - 324px);
+}
+
+.aggMapItem:hover .aggRemove {
+  display: inline-block;
+}
+
+.aggBindOption {  
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.aggBindInner {
+  display: inline-block;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.aggBindLabel {
+  display: inline-block;
+  width: 65px;
+  font-size: 11pt;
+  text-align: right;
+}
+
+.aggBindSelect {
+  display: inline-block;
+  width: calc(100% - 70px);
+  font-size: 11pt;
+  text-align: left;
+  margin: 5px 0px 0px 5px;
+}
+
+.aggBindRemove {  
+  color: #939393;  
+  cursor: pointer;
+  margin-left: 5px;
+  vertical-align: middle;
+  display: none;
+}
+
+.aggBindOption:hover .aggBindInner{
+  width: calc(100% - 30px);  
+}
+
+.aggBindOption:hover .aggBindRemove {
+  display: inline-block;
+}
+
+.aggBindAdd{
+  width: 50px;
+  height: 25px;
+  padding: 0px;
+  line-height: 5pt;
+}
+
+.aggPreview {
+  display: inline-block;
+  width: 100%;
+  height: 200px;
+  max-height: 250px;
+}
+

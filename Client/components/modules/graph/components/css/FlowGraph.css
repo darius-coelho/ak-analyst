@@ -1,0 +1,112 @@
+.content-container {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    position: relative;
+}
+
+.content-container:focus {
+    outline: 0px solid transparent;
+}
+
+.basic-container {
+    width: inherit;
+    height: inherit;
+}
+
+.flow-link {
+    stroke: rgb(0, 0, 0);
+    fill: none;
+    stroke-width: 3px;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.flow-link-focus {
+    stroke: rgb(0, 0, 0);
+    fill: none;
+    stroke-width: 2px;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.flow-link-focus2 {
+    stroke: rgb(206, 206, 206);
+    fill: none;
+    stroke-width: 8px;    
+    cursor: pointer;
+}
+
+.mouse-link {
+    stroke: rgb(0, 0, 0);
+    fill: none;
+    stroke-width: 2px;
+    opacity: 0.5;
+    stroke-dasharray: 4
+}
+
+.holder {
+    stroke: none;
+    fill: transparent;
+    shape-rendering: crispedges;
+}
+
+.holder-focus {
+    stroke: black;
+    fill: transparent;
+    shape-rendering: crispedges;
+    stroke-dasharray: 4px; 
+    stroke-width: 0.5px;
+}
+
+.jumbotron {
+    text-anchor: middle;
+    font-size: 35px;    
+    fill: #b7b7b7;
+    transform: translate(50%, 50%);
+    pointer-events: none;
+}
+
+.topVertResizer {
+    cursor: n-resize;
+    stroke: white;
+    stroke-width: 8px;
+    opacity: 0;
+}
+
+.bottomVertResizer {
+    cursor: s-resize;
+    stroke: white;
+    stroke-width: 8px;
+    opacity: 0;
+}
+
+.leftHorzResizer {
+    cursor: w-resize;
+    stroke: white;
+    stroke-width: 8px;
+    opacity: 0;
+}
+
+.rightHorzResizer {
+    cursor: e-resize;
+    stroke: white;
+    stroke-width: 8px;
+    opacity: 0;
+}
+
+.noteTextBox{
+    width: 100%;
+    height: 100%;
+    resize: none;
+    overflow: hidden;
+}
+
+.noteTextDisplay{
+    width: 100%;
+    height: 100%;
+    background: #dddddd61;
+    padding: 2px 8px;
+    overflow: hidden;    
+    text-overflow: ellipsis;    
+}

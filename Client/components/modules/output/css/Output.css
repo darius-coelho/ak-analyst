@@ -1,0 +1,49 @@
+.tableContainer {
+  display: inline-block;
+  margin: 20px;
+  width: 300px;
+  vertical-align: top;
+}
+
+.tableHead {
+  display: inline-block;
+  margin: 0px;
+  background: #cbc0e0;
+  width: 100%;
+  height: 32px;
+  border: 1px solid #ced4da;  
+  padding: 2px 5px;
+}
+
+.tableRow {
+  display: inline-block;
+  margin: 0px;  
+  width: 100%;
+  border: 1px solid #ced4da;
+  border-top: none;
+  height:30px;
+  vertical-align: middle;
+}
+
+.labelCell {
+  display: inline-block;
+  margin: 0px;
+  background: #f5f5f5;
+  font-size: 14px;
+  width: 60%;    
+  height: 100%;
+  padding: 4px 5px;
+  vertical-align: middle;
+}
+
+.valueCell {
+  display: inline-block;
+  margin: 0px;
+  background: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  width: 40%;    
+  height: 100%;
+  padding: 4px 10px;
+  vertical-align: middle;
+}

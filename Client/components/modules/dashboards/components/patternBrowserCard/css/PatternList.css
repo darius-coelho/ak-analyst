@@ -1,0 +1,49 @@
+.patternList {
+  min-height: 100px;
+  padding: 0px;
+  margin: 15px 5px 5px 15px;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  vertical-align: top;
+  height: calc(100% - 20px);
+  overflow: hidden;
+  background: #edf0f1;
+}
+
+.patternInnerList {  
+  width: calc(100% - 10px);
+  margin: 0px 5px 5px 5px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-radius: 5px;
+  flex-grow: 1;
+}
+
+.patternListHead {
+  display: inline-block;  
+  padding: 5px 10px;
+  margin-bottom: 9px;
+  color: rgb(58, 58, 58);
+  font-weight: bold;
+  font-size: 12pt;
+}
+
+.patternListHeadEdit {
+  display: none;  
+  margin-left: 5px;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.patternListHead:hover .patternListHeadEdit {
+  display: inline-block;  
+}
+
+.patternListDelete {
+  position: absolute;
+  margin: 5px 5px 0px 295px;
+  color: rgb(58, 58, 58);
+  font-weight: bold;
+  cursor: pointer;
+}

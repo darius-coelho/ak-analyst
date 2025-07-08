@@ -1,0 +1,45 @@
+.patternListFilterBox {  
+  padding: 0px;
+  margin: -10px 0px 15px 0px;
+  width: 100%;
+  display: block;
+  height: fit-content;
+  font-size: 9pt;
+}
+
+.patternListFilterToggle{
+  margin: 0px 10px;
+  font-size: 9pt;
+}
+
+.patternListFilterLabel{
+  vertical-align: top;
+  display: inline-block;
+  width: 85px;
+  font-size: 9pt;
+  white-space: normal;  
+}
+
+.patternListFilterSlider {
+  display: inline-block;
+  width: calc(100% - 100px);
+  margin: 0px 0px;
+  padding: 0px 15px;
+  font-size: 9pt;
+}
+
+.patternListFilterDropdown {
+  display: inline-block;
+  width: calc(100% - 100px);
+  margin: 0px 0px;
+  padding: 0px 0px;
+  font-size: 9pt;
+}
+
+.patternListFilterSelect {
+  display: inline-block;  
+  line-height: 1.5;
+  padding: 2px;
+  margin: 5px;
+  border: 1px solid #cccccc
+}

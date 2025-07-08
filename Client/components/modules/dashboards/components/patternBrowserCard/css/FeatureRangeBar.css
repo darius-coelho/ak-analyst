@@ -1,0 +1,11 @@
+.featAttrLbl {
+  font-size: 10pt;
+  font-weight: 400;
+  padding: 3px 5px;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: #f0f0f0;
+  border-radius: 5px;
+  white-space: nowrap;
+}
